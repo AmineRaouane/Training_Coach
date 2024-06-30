@@ -30,4 +30,4 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/streamlit-training-coach.git
+   git clone https://github.com/AmineRaouane/Training_Coach.git
