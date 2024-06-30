@@ -1,0 +1,17 @@
+[client]
+wideMode = true
+
+[theme]
+base="dark"
+
+# .streamlit/config.toml
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+
+[layout]
+wideMode = true

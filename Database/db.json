@@ -1,0 +1,174 @@
+{
+  "exercise_data": {
+    "day": [
+      "Pull Day",
+      "Push Day",
+      "Leg Day",
+      "Rest Day",
+      "Full Body Day",
+      "Cardio Day"
+    ],
+    "exercises": [
+      [
+        {
+          "exercise_name": "Pull-Up",
+          "sets": 4,
+          "reps": 8,
+          "description": "Wide grip pull-ups"
+        },
+        {
+          "exercise_name": "Deadlift",
+          "sets": 3,
+          "reps": 6,
+          "description": "Standard deadlifts"
+        },
+        {
+          "exercise_name": "Bicep Curl",
+          "sets": 3,
+          "reps": 10,
+          "description": "Using dumbbells"
+        },
+        {
+          "exercise_name": "Rowing Machine",
+          "sets": 4,
+          "reps": 200,
+          "description": "200 meters per set"
+        }
+      ],
+      [
+        {
+          "exercise_name": "Bench Press",
+          "sets": 4,
+          "reps": 8,
+          "description": "Flat bench press"
+        },
+        {
+          "exercise_name": "Overhead Press",
+          "sets": 3,
+          "reps": 6,
+          "description": "Using barbell"
+        },
+        {
+          "exercise_name": "Tricep Dip",
+          "sets": 3,
+          "reps": 10,
+          "description": "Bodyweight or weighted"
+        },
+        {
+          "exercise_name": "Chest Fly",
+          "sets": 3,
+          "reps": 12,
+          "description": "Using cables"
+        }
+      ],
+      [
+        {
+          "exercise_name": "Squat",
+          "sets": 4,
+          "reps": 8,
+          "description": "Barbell back squat"
+        },
+        {
+          "exercise_name": "Leg Press",
+          "sets": 3,
+          "reps": 10,
+          "description": "Machine leg press"
+        },
+        {
+          "exercise_name": "Calf Raise",
+          "sets": 3,
+          "reps": 15,
+          "description": "Standing calf raises"
+        },
+        {
+          "exercise_name": "Lunges",
+          "sets": 3,
+          "reps": 12,
+          "description": "Dumbbell lunges"
+        }
+      ],
+      [
+        {
+          "exercise_name": "Burpees",
+          "sets": 3,
+          "reps": 15,
+          "description": "High intensity"
+        },
+        {
+          "exercise_name": "Mountain Climbers",
+          "sets": 4,
+          "reps": 20,
+          "description": "High intensity"
+        },
+        {
+          "exercise_name": "Jump Squats",
+          "sets": 3,
+          "reps": 12,
+          "description": "Bodyweight"
+        },
+        {
+          "exercise_name": "Push-Ups",
+          "sets": 4,
+          "reps": 20,
+          "description": "Bodyweight"
+        }
+      ],
+      [
+        {
+          "exercise_name": "Running",
+          "sets": 1,
+          "reps": 30,
+          "description": "30 minutes on treadmill"
+        },
+        {
+          "exercise_name": "Cycling",
+          "sets": 1,
+          "reps": 30,
+          "description": "30 minutes on stationary bike"
+        },
+        {
+          "exercise_name": "Elliptical",
+          "sets": 1,
+          "reps": 30,
+          "description": "30 minutes on elliptical"
+        },
+        {
+          "exercise_name": "Stair Climber",
+          "sets": 1,
+          "reps": 20,
+          "description": "20 minutes on stair climber"
+        }
+      ]
+    ]
+  },
+
+  "nutrition_data": {
+    "meal": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Snack",
+      "Pre-Workout",
+      "Post-Workout",
+      "Midnight Snack"
+    ],
+    "food_items": [
+      ["Oatmeal", "Banana", "Almonds", "Coffee"],
+      ["Grilled Chicken", "Brown Rice", "Broccoli", "Salad"],
+      ["Salmon", "Quinoa", "Asparagus", "Sweet Potato"],
+      ["Greek Yogurt", "Blueberries", "Honey", "Nuts"],
+      ["Protein Shake", "Banana", "Peanut Butter"],
+      ["Chicken Breast", "Sweet Potato", "Green Beans"],
+      ["Cottage Cheese", "Almonds", "Apple"]
+    ],
+    "nutrition_details": [
+      { "calories": 400, "protein": 18, "carbs": 50, "fats": 12 },
+      { "calories": 600, "protein": 45, "carbs": 60, "fats": 15 },
+      { "calories": 650, "protein": 50, "carbs": 65, "fats": 20 },
+      { "calories": 300, "protein": 12, "carbs": 30, "fats": 10 },
+      { "calories": 350, "protein": 25, "carbs": 40, "fats": 8 },
+      { "calories": 500, "protein": 40, "carbs": 50, "fats": 12 },
+      { "calories": 250, "protein": 15, "carbs": 20, "fats": 8 }
+    ]
+  }
+}
