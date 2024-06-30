@@ -2,15 +2,8 @@
 
 Welcome to the **Streamlit Training Coach**, an interactive chat application designed to provide users with accurate responses by leveraging the power of the Gemini model and Wikipedia research. This project is built using **Streamlit** for the user interface, **Google Cloud’s Vertex AI** for the Gemini model, and **Flask** for storing chat histories. The system also supports a database setup for future enhancements, including chat vectorization.
 
-## Table of Contents
+![Architecture Diagram](Diagramme.jpg)
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
