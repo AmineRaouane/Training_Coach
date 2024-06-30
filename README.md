@@ -31,4 +31,3 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/streamlit-training-coach.git
-   cd streamlit-training-coach
